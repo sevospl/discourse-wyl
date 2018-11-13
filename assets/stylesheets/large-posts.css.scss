@@ -16,7 +16,8 @@
 .topic-body {
   width: auto;
   min-width: 690px;
-  overflow: hidden;
+  overflow: visible;
+  margin-left: 90px;
   float: none;
 }
 
