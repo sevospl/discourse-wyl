@@ -13,11 +13,10 @@
 }
 
 // Post width resizing
-.topic-body {
+.topic-body::before {
   width: auto;
   min-width: 690px;
   overflow: visible;
-  margin-left: 90px;
   float: none;
 }
 
