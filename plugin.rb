@@ -11,5 +11,5 @@ register_asset "javascripts/discourse/templates/post/poster-avatar.raw.hbs"
 register_asset "stylesheets/large-posts.css.scss", :desktop
 
 ### Spoiler post toolbar button
-#register_asset "javascripts/spoiler-toolbar.js", :composer
-#register_asset "stylesheets/spoiler-toolbar.css.scss"
+register_asset "javascripts/spoiler-toolbar.js", :composer
+register_asset "stylesheets/spoiler-toolbar.css.scss"
